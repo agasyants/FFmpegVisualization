@@ -2,7 +2,7 @@
 
 Коллекция motion graphics сцен для документального фильма о Fabrice Bellard, истории FFmpeg и патентных войнах вокруг медиакодеков.
 
-**→ [Открыть](https://agasyants.github.io/FFmpegVisualization/)**
+**→ [Открыть](https://just-for-now.github.io/FFmpegVisualization/)**
 
 ---
 
